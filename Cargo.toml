@@ -1,13 +1,13 @@
 [package]
-name = "zn"
+name = "pk"
 version = "0.0.1"
 authors = ["Bevan Hunt <bevan@bevanhunt.com>"]
 edition = "2018"
 license = "MIT"
-keywords = ["cli", "files", "cdn", "cloud-storage", "wasabi"]
+keywords = ["cli", "upcloud", "ec2", "provision"]
 categories = ["command-line-utilities"]
-description = "CLI for Files - CDN Origin Server for Cloud Storage"
-repository = "https://github.com/apibillme/zn"
+description = "CLI for Provision"
+repository = "https://github.com/apibillme/pk"
 readme = "README.md"
 
 [dependencies]
